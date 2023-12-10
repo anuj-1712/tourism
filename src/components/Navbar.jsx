@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { IconContext } from "react-icons";
 import {FiHome} from "react-icons/fi"
 import {GiHamburgerMenu} from "react-icons/gi"
